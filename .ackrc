@@ -1,0 +1,5 @@
+--ignore-dir=Cache
+--ignore-dir=Public/Cache
+--type-set
+php=.php,.js,.tpl,.css,.ini,.csv,.properties,.sql
+--type=php
